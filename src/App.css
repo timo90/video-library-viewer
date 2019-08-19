@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.form-area{
+  border: 1px solid #cecece;
+  padding: 15px;
+  margin: 15px 0px;
+  float: left;
+  clear: both;
+  width: 100%;
+  background-color: #f7f7f7;
+}
